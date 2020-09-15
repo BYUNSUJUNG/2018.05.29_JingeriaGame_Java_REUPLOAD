@@ -1,0 +1,9 @@
+INDEX VERSION 1.130+C:\Users\PC\Desktop\JingeriaGame_20180519_PointSetting\.metadata\.plugins\org.eclipse.jdt.core
+2753269286.index
+1597060077.index
+179250289.index
+2280120640.index
+760677442.index
+1835506315.index
+684795000.index
+1372130087.index
